@@ -7,6 +7,8 @@
 
 [![Profile Views](![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FDg6969&label=profile&icon=github&color=%23198754))]([https://hits.seeyoufarm.com](https://hitscounter.dev/))
 
+<img src="https://github.com/devrajsinh2012/devrajsinh2012/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+
 ---
 
 ## 💫 About Me
