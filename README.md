@@ -5,7 +5,7 @@
   <img src="https://e0.pxfuel.com/wallpapers/523/786/desktop-wallpaper-anime-computer-hacker-girl-anime-programming.jpg" alt="profile banner" width="400px">
 </p>
 
-[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/devrajsinh2012&count_bg=%237E3AF2&title_bg=%237E3AF2&icon=github.svg&title=Profile%20Views&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Profile Views](![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FDg6969&label=profile&icon=github&color=%23198754))]([https://hits.seeyoufarm.com](https://hitscounter.dev/))
 
 ---
 
