@@ -220,7 +220,7 @@ timeline
 </tr>
 </table>
 
-### 🌟 Learning Goals for 2024
+### 🌟 Learning Goals for 2025
 - [ ] **Advanced Product Analytics** - Mastering conversion funnel optimization
 - [ ] **AI Product Management** - Building AI-first product strategies  
 - [ ] **Leadership Excellence** - Scaling high-performing product teams
