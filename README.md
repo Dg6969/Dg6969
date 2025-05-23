@@ -69,12 +69,6 @@
 
 <div align="center">
   
-### 🏆 Quick Stats
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devrajsinh&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff)
-
-</div>
-
 ---
 
 ## 🎓 Professional Certifications
@@ -170,20 +164,20 @@
 timeline
     title Career Timeline
     
-    2023 : Chief Operating Officer
+    2025 : Chief Operating Officer
          : Integers: Beyond the Decimal Point
          : • Strategic Team Leadership
          : • Digital Campaign Execution
          : • Operational Excellence
     
-    2022 : Project Management Intern
+    2024 : Project Management Intern
          : Orscope Technologies
          : • Product Planning & Strategy
          : • User Research & Analysis
          : • Agile Implementation
     
-    2021 : Educational Mentor
-         : Primary School Teaching
+    2023 : Educational Mentor
+         : Secondary School Teaching
          : • Engaging Classroom Management
          : • Foundational Learning Design
          : • Student-Centric Approach
@@ -231,18 +225,6 @@ timeline
 - [ ] **AI Product Management** - Building AI-first product strategies  
 - [ ] **Leadership Excellence** - Scaling high-performing product teams
 - [ ] **Growth Hacking** - Implementing viral product features
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devrajsinh&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrajsinh&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" />
-</div>
 
 ---
 
