@@ -254,14 +254,7 @@ timeline
   </a>
 </div>
 
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
-</div>
-
-<div align="center">
-  
+---  
 ### 💭 My Product Philosophy
   
 *"A great product manager isn't just a feature factory. They're the voice of the user, the architect of strategy, and the heartbeat of innovation."*
